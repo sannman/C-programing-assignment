@@ -20,5 +20,5 @@ int main() {
             case '9': printf("nine "); break;
         }
     }
-    return 0;
+    return 0;
 }
