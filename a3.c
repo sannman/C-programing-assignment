@@ -2,10 +2,11 @@
 
 int main(){
 
-    float a;
+    int a;
     
-    scanf("%f", &a );
+    printf("Enter a number \n");
+    scanf("%i", &a );
 
-    printf("You Entered %f \n",a);
+    printf("You Entered %i \n",a);
 
 }
